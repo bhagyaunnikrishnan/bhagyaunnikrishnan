@@ -34,8 +34,8 @@
 </table>
 
 ## 📊 GitHub Activity
-| ![Arita github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhagyaunnikrishnan&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://streak-stats.demolab.com/?user=akashrchandran&theme=radical)                                                                                                           |
+| ![Arita github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhagyaunnikrishnan&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://streak-stats.demolab.com/?user=bhagyaunnikrishnan&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagyaunnikrishnan&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bhagyaunnikrishnan&repo=spotify-lyrics-api&cache_seconds=86400&theme=radical) |
+| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagyaunnikrishnan&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bhagyaunnikrishnan&repo=portfolio&cache_seconds=86400&theme=radical) |
 
 
