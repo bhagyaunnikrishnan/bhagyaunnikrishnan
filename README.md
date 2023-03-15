@@ -38,4 +38,4 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhagyaunnikrishnan&langs_count=8&theme=radical&layout=compact) | ![Github Repo Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bhagyaunnikrishnan&repo=portfolio&cache_seconds=86400&theme=radical) |
 
-
+[![An image of @bhagyaunnikrishnan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhagyaunnikrishnan)](https://holopin.io/@bhagyaunnikrishnan)
