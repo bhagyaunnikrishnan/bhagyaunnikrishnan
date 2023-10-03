@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fixing My Life**
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **React Js**
 
 
 
